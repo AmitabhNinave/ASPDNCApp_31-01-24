@@ -5,4 +5,5 @@ public class Book
   public string? Author { get; set; }
   public string? Gender { get; set; }
   public DateTime ReleaseDate { get; set; }
+  public double Price { get; set; }
 }
